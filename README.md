@@ -29,7 +29,8 @@ Open http://127.0.0.1:8000/ in your browser
 Contributors:
 
 Niharika
-Gmail: LinkedIn:
+📧 Email: niharikak0313@gmail.com
+🔗 LinkedIn: linkedin.com/in/niharika-k
 
 
 
