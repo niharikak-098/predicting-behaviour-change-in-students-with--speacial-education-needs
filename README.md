@@ -12,20 +12,35 @@ Data Processing & ML: Python Libraries (NumPy, Pandas, scikit-learn)
 
 Folder Structure:
 templates/ → HTML templates for Django
-static/ → CSS and JavaScript files
-ML/ → Scripts for data analysis and model prediction
-project/ → Django app files (views, models, etc.)
-db.sql → MySQL database dump
-manage.py → Django project runner
-requirements.txt → Python dependencies
-Instructions to Run:
 
+static/ → CSS and JavaScript files
+
+ML/ → Scripts for data analysis and model prediction
+
+project/ → Django app files (views, models, etc.)
+
+db.sql → MySQL database dump
+
+manage.py → Django project runner
+
+requirements.txt → Python dependencies
+
+Instructions to Run:
 Clone or download the folder
+
 Set up a Python virtual environment
+
 Install dependencies: pip install -r requirements.txt
+
 Set up MySQL and import db.sql
+
 Run server: python manage.py runserver
+
 Open http://127.0.0.1:8000/ in your browser
 
-contributors:
+👩‍💻 Contributor:
+Niharika
+📧 niharikak0313@gmail.com
+🔗 
+
 
