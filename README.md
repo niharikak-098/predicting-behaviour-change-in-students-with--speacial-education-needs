@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ## 👥 Contributor
 
 - **Niharika**  
-📧 Email: [niharikak0313@gmail.com](mailto:niharikak0313@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/niharika-k](https://linkedin.com/in/niharika-k)
+📧 Email: [niharikak0313@gmail.com] 
+🔗 LinkedIn:  [linkedin.com/in/niharika-k]
 
 ---
