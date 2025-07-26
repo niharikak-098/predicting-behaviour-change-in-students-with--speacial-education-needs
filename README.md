@@ -8,6 +8,7 @@ Frontend: HTML, CSS, JavaScript
 Backend: Python, Django
 Database: MySQL
 Data Processing & ML: Python Libraries (NumPy, Pandas, scikit-learn)
+
 Folder Structure:
 
 templates/ → HTML templates for Django
@@ -17,6 +18,7 @@ project/ → Django app files (views, models, etc.)
 db.sql → MySQL database dump
 manage.py → Django project runner
 requirements.txt → Python dependencies
+
 Instructions to Run:
 
 Clone or download the folder
