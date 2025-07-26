@@ -19,11 +19,9 @@ This project aims to analyze and predict behavioral changes in students with spe
 project/
 │
 ├── templates/ # HTML templates for Django
-
 ├── static/ # CSS and JavaScript files
 ├── ML/ # Scripts for data analysis and ML prediction
 ├── project/ # Django app files (views, models, urls)
-
 ├── db.sql # MySQL database dump
 ├── manage.py # Django project runner
 └── requirements.txt # Python dependencies
