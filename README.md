@@ -1,41 +1,55 @@
-Project Title: Predicting Behavior Change in Students With Special Education Needs Using Multimodal Learning Analytics
+# 📘 Project Title: Predicting Behavior Change in Students With Special Education Needs Using Multimodal Learning Analytics
 
-Description: This project aims to analyze and predict behavioral changes in students with special education needs using a multimodal learning analytics approach. It integrates various data points and uses machine learning techniques to provide insightful predictions that can help educators make informed decisions.
+## 📝 Description
+This project aims to analyze and predict behavioral changes in students with special education needs using a multimodal learning analytics approach. It integrates various data points and leverages machine learning techniques to provide insightful predictions that assist educators in making informed decisions.
 
-Technologies Used:
+---
 
-Frontend: HTML, CSS, JavaScript
-Backend: Python, Django
-Database: MySQL
-Data Processing & ML: Python Libraries (NumPy, Pandas, scikit-learn)
+## 💻 Technologies Used
 
-Folder Structure:
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Python, Django  
+- **Database:** MySQL  
+- **Data Processing & ML:** NumPy, Pandas, scikit-learn  
 
-templates/ → HTML templates for Django
-static/ → CSS and JavaScript files
-ML/ → Scripts for data analysis and model prediction
-project/ → Django app files (views, models, etc.)
-db.sql → MySQL database dump
-manage.py → Django project runner
-requirements.txt → Python dependencies
+---
 
-Instructions to Run:
+## 📁 Folder Structure
 
-Clone or download the folder
-Set up a Python virtual environment
-Install dependencies: pip install -r requirements.txt
-Set up MySQL and import db.sql
-Run server: python manage.py runserver
-Open http://127.0.0.1:8000/ in your browser
-
-Contributors:
-
-Niharika
-📧 Email: niharikak0313@gmail.com
-🔗 LinkedIn: linkedin.com/in/niharika-k
+project/
+│
+├── templates/ # HTML templates for Django
+├── static/ # CSS and JavaScript files
+├── ML/ # Scripts for data analysis and ML prediction
+├── project/ # Django app files (views, models, urls)
+├── db.sql # MySQL database dump
+├── manage.py # Django project runner
+└── requirements.txt # Python dependencies
 
 
+---
 
- 
+## ⚙️ Instructions to Run the Project
 
+1. Clone or download this repository.
+2. Set up a virtual environment:
 
+python -m venv venv
+source venv/bin/activate (Linux/macOS) OR venv\Scripts\activate (Windows)
+
+3. Install required dependencies:
+pip install -r requirements.txt
+
+4. Set up MySQL and import `db.sql` into your database.
+5. Run the development server: python manage.py runserver
+6. Open your browser and visit: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+
+   ---
+
+## 👥 Contributor
+
+- **Niharika**  
+📧 Email: [niharikak0313@gmail.com](mailto:niharikak0313@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/niharika-k](https://linkedin.com/in/niharika-k)
+
+---
